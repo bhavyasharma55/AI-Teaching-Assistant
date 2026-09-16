@@ -1,0 +1,25 @@
+# Large media files
+videos/
+audios/
+*.mp4
+*.mp3
+*.wav
+
+# Whisper model/files
+whisper/
+
+# Python files
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# Editor files
+.vscode/
+
+# Generated files
+output.json
