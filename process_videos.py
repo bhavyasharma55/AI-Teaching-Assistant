@@ -4,7 +4,7 @@ import subprocess
 files = os.listdir('videos')
 for file in files:
     print(file)
-    tutorial_number = file.split(" [")[0].split(" #")[-1]
+    tutorial_number = file.split(" [")[0].split(" #")[1]
     print(tutorial_number)
     file_name = file.split(" | ")[0]
     print(tutorial_number, file_name)
