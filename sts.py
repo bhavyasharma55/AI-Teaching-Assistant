@@ -1,9 +1,9 @@
 import whisper
 import json
 
-model = whisper.load_model("large-v2")
+model = whisper.load_model("base")
 
-result = model.transcribe(audio = "audios/1.mp3_1.mp3", 
+result = model.transcribe(audio = r"audios\2_Your First HTML Website ｜ Sigma Web Development Course - Tutorial #2 [kJEsTjH5mVg].webm.mp3", 
                           language="hi",
                           task="translate",
                            word_timestamps=False )

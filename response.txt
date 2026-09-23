@@ -1,0 +1,18 @@
+I'd be happy to help you with your question.
+
+So, you're wondering what HTML is? Well, HTML stands for HyperText Markup Language. It's the standard markup language used to create web pages.
+
+HTML teaches you how to structure and format content on a web page. In the context of your Sigma web development course, HTML is covered in Tutorial #2, where you learn how to create your first HTML website.
+
+In Tutorial #2, you'll learn about the basic syntax of HTML and how to write HTML code to create a simple web page. You'll also learn about common HTML elements like headings, paragraphs, links, and images.
+
+If you want to learn more about HTML and how it works, I recommend checking out Tutorial #2 in your course. You can find it by going to the Sigma web development course page and clicking on the "Tutorial #2" link. Then, click on the "Watch Video" button to start the tutorial.
+
+In Tutorial #2, you'll learn about the following topics at different timestamps:
+
+* At 869.6 seconds, you'll learn that HTML is used to create web pages.
+* At 914.6 seconds, you'll learn about syntax HTML.
+* At 1192.6 seconds, you'll learn that HTML files contain both code and comments.
+* Later in the tutorial, you'll learn how to add links, images, and other media to your HTML page.
+
+I hope this helps! Let me know if you have any other questions or if there's anything else I can help you with.

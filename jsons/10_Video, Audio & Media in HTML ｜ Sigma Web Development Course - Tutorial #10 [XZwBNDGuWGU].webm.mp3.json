@@ -1,1 +1,2189 @@
-{"chunks": [{"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 0.0, "end": 5.58, "text": " Today in this video we will go to audio, video and media elements in kestana system."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 5.58, "end": 10.540000000000001, "text": " We have seen in our very first video that we can embed videos in kestana."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 10.540000000000001, "end": 13.38, "text": " Today I will tell you how to auto play kestana."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 13.38, "end": 19.88, "text": " How to make muted video and how to enable and disable the control of video."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 19.88, "end": 22.72, "text": " Along with that we will also see about audio."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 22.72, "end": 25.52, "text": " How to show media in overall page."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 25.52, "end": 28.52, "text": " Like this video and subscribe to our channel."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 28.52, "end": 32.72, "text": " Because the examples I have used for video tags are very important."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 32.72, "end": 35.22, "text": " Let's go to video screen and let's roll the intro."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 44.22, "end": 47.22, "text": " Friends I have made a video called Folder."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 47.22, "end": 51.519999999999996, "text": " I will not waste time with the open with code of shift right click."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 51.519999999999996, "end": 53.72, "text": " I will make impact index on the stream."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 53.72, "end": 56.72, "text": " Today's video is video."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 56.72, "end": 58.72, "text": " How to play video."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 58.72, "end": 62.72, "text": " In a HTML file, how to put video."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 62.72, "end": 63.72, "text": " How to put audio."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 63.72, "end": 65.72, "text": " How to put media."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 65.72, "end": 69.72, "text": " So to add video, I will copy it."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 69.72, "end": 73.72, "text": " The video tag is called src attribute."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 73.72, "end": 75.72, "text": " And some other attributes like this."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 75.72, "end": 77.72, "text": " I will show you the slowest."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 77.72, "end": 79.72, "text": " But first I will tell you."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 79.72, "end": 81.72, "text": " You will see the video."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 81.72, "end": 84.72, "text": " If you have video.mp4, you will play with it."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 84.72, "end": 85.72, "text": " I have video.mp4."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 85.72, "end": 86.72, "text": " Let's see."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 86.72, "end": 88.72, "text": " I have put control here."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 88.72, "end": 90.72, "text": " I will preview it."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 90.72, "end": 92.72, "text": " You can see that this video is here."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 92.72, "end": 95.72, "text": " Now it is a very big video."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 95.72, "end": 97.72, "text": " So what can I do?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 97.72, "end": 100.72, "text": " I can say that I will do it here."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 100.72, "end": 102.72, "text": " I will do it here."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 102.72, "end": 104.72, "text": " I will do it here."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 104.72, "end": 106.72, "text": " I need to click px."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 106.72, "end": 108.72, "text": " I don't need to click px."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 109.72, "end": 111.72, "text": " Here we don't need to click px."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 111.72, "end": 115.72, "text": " When I press bit, I will do it in 5.5."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 115.72, "end": 117.72, "text": " I will do it in 5.5."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 117.72, "end": 119.72, "text": " So that it will be more small."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 119.72, "end": 121.72, "text": " I will do it in 2.5.5."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 121.72, "end": 123.72, "text": " And you can see that I am here."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 123.72, "end": 125.72, "text": " I will play here."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 125.72, "end": 126.72, "text": " I can play here."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 126.72, "end": 128.72, "text": " I have played it very well."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 128.72, "end": 129.72, "text": " What is my name?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 129.72, "end": 130.72, "text": " Who will play?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 130.72, "end": 131.72, "text": " Where did you go?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 131.72, "end": 132.72, "text": " I went to the U.S."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 132.72, "end": 133.72, "text": " I will play here."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 133.72, "end": 135.72, "text": " Who will play here?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 135.72, "end": 137.72, "text": " You can play here."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 137.72, "end": 138.72, "text": " Now we can play here."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 138.72, "end": 140.72, "text": " Add some attributes to the video."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 140.72, "end": 142.72, "text": " You should have a video."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 142.72, "end": 143.72, "text": " You should have a video."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 143.72, "end": 145.72, "text": " The video you have given to you."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 145.72, "end": 147.72, "text": " You will have control."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 147.72, "end": 149.72, "text": " You can download it."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 149.72, "end": 151.72, "text": " You can mute it."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 151.72, "end": 153.72, "text": " You can picture it."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 153.72, "end": 155.72, "text": " This automatically presents browser."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 155.72, "end": 157.72, "text": " I will tell you about some attributes."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 157.72, "end": 159.72, "text": " You can see that I will add the video."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 159.72, "end": 161.72, "text": " You can see that this video is file name."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 161.72, "end": 164.72, "text": " This video is file from external URL."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 164.72, "end": 168.72, "text": " If I have downloaded the video of Amazon S3,"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 168.72, "end": 170.72, "text": " I can add a URL here."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 170.72, "end": 173.72, "text": " You can also use your server on your computer."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 173.72, "end": 175.72, "text": " You can also come to the third party."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 175.72, "end": 176.72, "text": " What is the controls?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 176.72, "end": 179.72, "text": " Adds video controls like play, pause and volume."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 179.72, "end": 182.72, "text": " Because we have seen the video in the video."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 182.72, "end": 184.72, "text": " You are seeing the controls."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 184.72, "end": 188.72, "text": " Now what is the thing that is seen automatically?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 188.72, "end": 190.72, "text": " What will be the control led?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 190.72, "end": 192.72, "text": " What will not be seen in your video?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 192.72, "end": 195.72, "text": " You can play automatically like a pitch load."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 195.72, "end": 198.72, "text": " You can play auto play."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 198.72, "end": 201.72, "text": " What is the problem with the auto play?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 201.72, "end": 205.72, "text": " You can see that this is auto play."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 205.72, "end": 207.72, "text": " I will play auto play."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 207.72, "end": 210.72, "text": " The next attribute is loop."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 210.72, "end": 214.72, "text": " Once we have played the video,"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 214.72, "end": 216.72, "text": " we will have loop."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 216.72, "end": 218.72, "text": " You can see that this is a pen."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 219.72, "end": 228.72, "text": " The next attribute is mutate."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 228.72, "end": 236.72, "text": " I will add videos here."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 236.72, "end": 239.72, "text": " I will demonstrate something."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 239.72, "end": 241.72, "text": " I will use mutate attribute."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 241.72, "end": 244.72, "text": " I will not record videos."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 245.72, "end": 247.72, "text": " I will show you the element."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 247.72, "end": 250.72, "text": " I will highlight this video."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 250.72, "end": 253.72, "text": " I will highlight this video."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 253.72, "end": 256.72, "text": " You can use mutate attribute in your websites."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 256.72, "end": 258.72, "text": " Postar is very important."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 258.72, "end": 262.72, "text": " I have a image of download.jpg."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 262.72, "end": 264.72, "text": " I will write postar."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 264.72, "end": 267.72, "text": " I will write download.jpg."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 267.72, "end": 269.72, "text": " You can see something."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 269.72, "end": 271.72, "text": " I will play postar."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 271.72, "end": 274.72, "text": " I will play postar."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 274.72, "end": 277.72, "text": " I will show you the video."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 277.72, "end": 280.72, "text": " Postar attribute."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 280.72, "end": 283.72, "text": " You can use this attribute."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 283.72, "end": 286.72, "text": " I have shown you the video dimension."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 286.72, "end": 289.72, "text": " I hope you have understood it."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 289.72, "end": 293.72, "text": " I want to tell you the video."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 293.72, "end": 298.72, "text": " I want to show you the video."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 298.72, "end": 313.48, "text": " I will show some"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 343.48, "end": 347.68, "text": " So this is audio, if I mute it, then I won't go. I can increase it."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 347.68, "end": 350.20000000000005, "text": " I can't see the audio."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 350.20000000000005, "end": 351.96000000000004, "text": " So this is such in.mp3."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 351.96000000000004, "end": 353.88, "text": " Now what we will do is,"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 353.88, "end": 356.04, "text": " we will see some of these audio attributes."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 356.04, "end": 359.44, "text": " You know that the source video is filed."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 359.44, "end": 362.48, "text": " Then you will know that the play is a positive volume."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 362.48, "end": 363.64000000000004, "text": " Because we have seen it."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 363.64000000000004, "end": 364.68, "text": " What will we do with the auto play?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 364.68, "end": 366.32, "text": " We will play it automatically."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 366.32, "end": 367.64000000000004, "text": " I have..."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 367.64000000000004, "end": 369.48, "text": " What is the auto play?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 369.48, "end": 371.48, "text": " I can't see the audio."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 372.04, "end": 373.48, "text": " So what is the auto play?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 373.48, "end": 375.48, "text": " This is the audio for the automatic play."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 375.48, "end": 379.48, "text": " Then the next attribute is, what will we do?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 379.48, "end": 381.48, "text": " We will repeat it."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 381.48, "end": 383.48, "text": " If I want to do it, then I will do the auto play."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 383.48, "end": 384.48, "text": " I will do the loop."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 384.48, "end": 385.48, "text": " What is the truth?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 385.48, "end": 386.48, "text": " In the truth?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 386.48, "end": 387.48, "text": " In the truth?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 387.48, "end": 388.48, "text": " In the truth?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 388.48, "end": 389.48, "text": " In the truth?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 389.48, "end": 390.48, "text": " In the truth?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 390.48, "end": 391.48, "text": " So you have repeated it."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 391.48, "end": 394.48, "text": " So once you have saved it, then you will get the answer."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 394.48, "end": 396.48, "text": " Because I have done the loop."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 396.48, "end": 398.48, "text": " So you have seen this."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 398.48, "end": 400.48, "text": " In the truth.mp3, I have looped it."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 400.48, "end": 402.48, "text": " Then you have saved it."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 402.48, "end": 404.48, "text": " Then you have saved it."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 404.48, "end": 406.48, "text": " The truth was repeated once."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 406.48, "end": 408.48, "text": " Because the amp3 will play once."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 408.48, "end": 414.48, "text": " So in many cases, when you want the amp3 to be repeated,"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 414.48, "end": 418.48, "text": " If you want the amp3 to be repeated, then you can use it."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 418.48, "end": 422.48, "text": " And then what will we do with the muted audio?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 422.48, "end": 426.48, "text": " And definitely you don't want to do the by default audio mute in most of the cases."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 427.48, "end": 431.48, "text": " We will never want the audio mute."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 431.48, "end": 434.48, "text": " And we can say this to the user who listens to it and has a mute."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 434.48, "end": 435.48, "text": " What is it?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 435.48, "end": 437.48, "text": " We will do this now, which is multiple audio users."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 437.48, "end": 439.48, "text": " You want to show the audio of the 5-6,"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 439.48, "end": 443.48, "text": " You can mute the user who can mute the play and play."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 443.48, "end": 447.48, "text": " So you can use this for control in your hands."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 447.48, "end": 448.48, "text": " Okay?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 448.48, "end": 451.48, "text": " So I hope you have come to this moment."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 451.48, "end": 453.48, "text": " You have enjoyed your videos."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 453.48, "end": 455.48, "text": " The most confusing attribute."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 455.48, "end": 458.48, "text": " That is why I explained this code with the .com."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 458.48, "end": 461.48, "text": " The preload attribute can be used for this value."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 461.48, "end": 463.48, "text": " The first value can be used for this."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 463.48, "end": 464.48, "text": " This is the default value."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 464.48, "end": 467.48, "text": " It indicates that the browser should not preload the audio at all."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 467.48, "end": 471.48, "text": " Preload means if you want to fetch the browser data,"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 471.48, "end": 474.48, "text": " Then you will use the preload attribute."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 474.48, "end": 476.48, "text": " Or you will not use the preload attribute."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 476.48, "end": 479.48, "text": " Preload is equal to the default value."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 479.48, "end": 481.48, "text": " Preload is equal to the default value."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 481.48, "end": 483.48, "text": " The browser does not only mean that the default value is not only the default value."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 483.48, "end": 485.48, "text": " The information about the audio file will be reloaded."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 485.48, "end": 487.48, "text": " Because it will be reloaded from the beginning."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 487.48, "end": 489.48, "text": " And what will be done by auto-curing?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 489.48, "end": 491.48, "text": " The browser will be reloaded for the entire audio."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 491.48, "end": 493.48, "text": " Preload is equal to auto-curing."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 493.48, "end": 496.48, "text": " If I do this, it will be downloaded and will be loaded automatically."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 496.48, "end": 498.48, "text": " So that whenever the user plays this,"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 498.48, "end": 500.48, "text": " Then the audio will be saved."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 500.48, "end": 502.48, "text": " So the attribute of the preload attribute is done."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 502.48, "end": 504.48, "text": " And the attribute that is asked in the interviews,"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 504.48, "end": 507.48, "text": " So you should know what the attribute is."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 507.48, "end": 510.48, "text": " Before starting, I would like to share this playlist with your friends."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 510.48, "end": 513.48, "text": " I am seeing that the entire video is getting very detailed."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 513.48, "end": 515.48, "text": " We are going to start the videos."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 515.48, "end": 517.48, "text": " I hope you like this video."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 517.48, "end": 521.48, "text": " And with that, just like you are doing this repository,"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 521.48, "end": 523.48, "text": " You are also going to start it."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 523.48, "end": 526.48, "text": " Your star will help you a lot."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 526.48, "end": 528.48, "text": " I will get the free courses."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 528.48, "end": 530.48, "text": " So this was about audio and video tags."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 530.48, "end": 532.48, "text": " I told you all the attributes."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 532.48, "end": 536.48, "text": " And you should definitely use all the images I will give you."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 536.48, "end": 538.48, "text": " So that you can try out these things."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 538.48, "end": 540.48, "text": " Many people asked me,"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 540.48, "end": 542.48, "text": " Can we use the template?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 542.48, "end": 545.48, "text": " I have not used it in this course."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 545.48, "end": 547.48, "text": " But repli.com is an amazing website."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 547.48, "end": 549.48, "text": " If you want to use it in your phone,"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 549.48, "end": 551.48, "text": " If you want to use HTML,"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 551.48, "end": 553.48, "text": " If you want to use it in your phone,"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 553.48, "end": 554.48, "text": " For iOS, Android,"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 554.48, "end": 555.48, "text": " Now you can try it out."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 555.48, "end": 558.48, "text": " Many people asked me how to use it in my phone."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 558.48, "end": 561.48, "text": " But I am also trying to use the VS code."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 561.48, "end": 564.48, "text": " Most of the people who want to use it, prefer it."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 564.48, "end": 567.48, "text": " So I have made the VS code in videos."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 567.48, "end": 570.48, "text": " But personally, I use the template."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 570.48, "end": 572.48, "text": " And there are videos in the template."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 572.48, "end": 574.48, "text": " Next topic is SVG."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 574.48, "end": 576.48, "text": " What is SVG?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 576.48, "end": 578.48, "text": " SVG is a format."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 578.48, "end": 580.48, "text": " You can create an image."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 580.48, "end": 583.48, "text": " It is a very high graphics vector image."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 583.48, "end": 586.48, "text": " So you can make it in a circle."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 586.48, "end": 589.48, "text": " So SVG is used in the same way."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 589.48, "end": 591.48, "text": " It is used in the same way."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 591.48, "end": 595.48, "text": " If I add SVG, then SVG will come here."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 595.48, "end": 597.48, "text": " So this is the circular SVG."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 597.48, "end": 601.48, "text": " Video, audio, SVG are the online elements."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 601.48, "end": 603.48, "text": " So we are looking at the same line."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 603.48, "end": 606.48, "text": " Now what is here?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 606.48, "end": 609.48, "text": " You can save SVG file from different types."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 609.48, "end": 611.48, "text": " You can save SVG file from different types."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 611.48, "end": 616.48, "text": " So I will write here that I amg.svg and SVG content is saved."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 616.48, "end": 619.48, "text": " So if I write this in IMG,"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 619.48, "end": 624.48, "text": " then you can see that I am not able to see this."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 624.48, "end": 628.48, "text": " If I write here, and my SVG image,"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 628.48, "end": 632.48, "text": " then you can see that SVG is not able to see SVG."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 632.48, "end": 635.48, "text": " So why?"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 635.48, "end": 640.48, "text": " It is because SVG is in the file in browser."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 640.48, "end": 644.48, "text": " And SVG file you can see in the browser."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 644.48, "end": 647.48, "text": " You can see a declaration."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 647.48, "end": 649.48, "text": " I will show you."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 649.48, "end": 652.48, "text": " I have written here that SVG file not showing."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 652.48, "end": 655.48, "text": " So this stack of people will tell you the answer."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 655.48, "end": 657.48, "text": " So you will have to write this."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 657.48, "end": 660.48, "text": " I will show you XML in some way."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 660.48, "end": 662.48, "text": " You will have to add this."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 662.48, "end": 664.48, "text": " Name space declaration."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 664.48, "end": 667.48, "text": " So SVG is something you have to add."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 667.48, "end": 669.48, "text": " And now you can see SVG."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 669.48, "end": 674.48, "text": " This is very important and many people will make websites in future."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 674.48, "end": 676.48, "text": " So I will make sure this problem is not possible."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 676.48, "end": 680.48, "text": " So I am telling you that the problem you faced in the first story."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 680.48, "end": 682.48, "text": " You have no problem."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 682.48, "end": 684.48, "text": " I have told you that it is going to be a solution."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 684.48, "end": 685.48, "text": " The next topic is iPhones."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 685.48, "end": 687.48, "text": " iPhones are very simple."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 687.48, "end": 691.48, "text": " You can embed an other website from iPhones."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 691.48, "end": 694.48, "text": " As I want to embed this website."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 694.48, "end": 697.48, "text": " I can use this website."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 697.48, "end": 701.48, "text": " I will copy this URL."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 701.48, "end": 703.48, "text": " And I will paste it here."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 703.48, "end": 707.48, "text": " And you can see that the entire website is embedded."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 707.48, "end": 711.48, "text": " You will definitely want to embed it in big iPhones."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 711.48, "end": 714.48, "text": " If you want to embed it in the same way, you can embed it."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 714.48, "end": 717.48, "text": " I will add it to the height of the site."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 717.48, "end": 719.48, "text": " So width is equal to width."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 719.48, "end": 722.48, "text": " I will add it to the height of 122."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 722.48, "end": 724.48, "text": " I will add it to the height of 122."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 724.48, "end": 727.48, "text": " So this is something like this."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 727.48, "end": 729.48, "text": " This is what I was able to do."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 729.48, "end": 732.48, "text": " I will add it to the height of 122."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 732.48, "end": 735.48, "text": " I will add it to the height of 122."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 735.48, "end": 738.48, "text": " So you can see that the entire site is embedded in the entire site."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 738.48, "end": 741.48, "text": " You can embed the site."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 741.48, "end": 743.48, "text": " You can use the same site for the same video."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 743.48, "end": 746.48, "text": " If you want to share the video of the site,"}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 746.48, "end": 749.48, "text": " click the embed and you can send the same site to the iPhone."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 749.48, "end": 752.48, "text": " And you can start it from any point."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 752.48, "end": 755.48, "text": " If you want to start a particular time, you can also do it here."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 755.48, "end": 758.48, "text": " You can share it at any point."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 758.48, "end": 760.48, "text": " You can also do it here."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 760.48, "end": 763.48, "text": " I will start it from here."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 763.48, "end": 765.48, "text": " I will start the video from here."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 765.48, "end": 768.48, "text": " I will click the embed and then embed it."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 768.48, "end": 770.48, "text": " I will start it from 1219."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 770.48, "end": 773.48, "text": " I will copy it or not."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 773.48, "end": 775.48, "text": " I will put it in my code."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 775.48, "end": 777.48, "text": " I will comment it in the iPhone."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 777.48, "end": 779.48, "text": " I will add it to the bottom of the iPhone."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 779.48, "end": 782.48, "text": " I will add it to the word wrap."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 783.48, "end": 785.48, "text": " Now I will paste it."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 785.48, "end": 788.48, "text": " I will show you the document."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 788.48, "end": 790.48, "text": " This video is embedded here."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 790.48, "end": 793.48, "text": " I hope you will come to know about it."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 793.48, "end": 796.48, "text": " And the media is only available in HTML."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 796.48, "end": 797.48, "text": " I am pretty much."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 797.48, "end": 800.48, "text": " I will meet you in every topic."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 800.48, "end": 802.48, "text": " But that's all about the media."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 802.48, "end": 804.48, "text": " I have audio, video, media."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 804.48, "end": 808.48, "text": " This is what you will use in 95% of the time."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 808.48, "end": 810.48, "text": " Now I will give you a quick quiz."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 810.48, "end": 817.48, "text": " And your quiz is that create a website which shows videos of different categories."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 817.48, "end": 820.48, "text": " And audio of different categories."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 820.48, "end": 826.48, "text": " You can use YouTube videos in an iFrame using YouTube's embedding feature."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 826.48, "end": 832.48, "text": " You have to make a website that will give you a lot of content."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 832.48, "end": 837.48, "text": " Now you will use video audio tags and use this share feature."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 837.48, "end": 839.48, "text": " I have made a video of this video."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 839.48, "end": 841.48, "text": " You can also embed it here."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 841.48, "end": 844.48, "text": " And you can make a big website and show it to me."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 844.48, "end": 846.48, "text": " You can give me a comment on the github."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 846.48, "end": 850.48, "text": " And you can explain me a code as well."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 850.48, "end": 852.48, "text": " But you can try to attempt this quiz."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 852.48, "end": 854.48, "text": " Write a signature badge in the comment section."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 854.48, "end": 856.48, "text": " Access the list."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 856.48, "end": 857.48, "text": " Like the video."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 857.48, "end": 859.48, "text": " Write a signature badge."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 859.48, "end": 860.48, "text": " I will meet you in this video."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 860.48, "end": 862.48, "text": " Thank you so much for watching this video."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 862.48, "end": 865.48, "text": " And I will see you next time."}, {"number": "10", "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm", "start": 867.48, "end": 869.48, "text": " Bye."}], "text": " Today in this video we will go to audio, video and media elements in kestana system. We have seen in our very first video that we can embed videos in kestana. Today I will tell you how to auto play kestana. How to make muted video and how to enable and disable the control of video. Along with that we will also see about audio. How to show media in overall page. Like this video and subscribe to our channel. Because the examples I have used for video tags are very important. Let's go to video screen and let's roll the intro. Friends I have made a video called Folder. I will not waste time with the open with code of shift right click. I will make impact index on the stream. Today's video is video. How to play video. In a HTML file, how to put video. How to put audio. How to put media. So to add video, I will copy it. The video tag is called src attribute. And some other attributes like this. I will show you the slowest. But first I will tell you. You will see the video. If you have video.mp4, you will play with it. I have video.mp4. Let's see. I have put control here. I will preview it. You can see that this video is here. Now it is a very big video. So what can I do? I can say that I will do it here. I will do it here. I will do it here. I need to click px. I don't need to click px. Here we don't need to click px. When I press bit, I will do it in 5.5. I will do it in 5.5. So that it will be more small. I will do it in 2.5.5. And you can see that I am here. I will play here. I can play here. I have played it very well. What is my name? Who will play? Where did you go? I went to the U.S. I will play here. Who will play here? You can play here. Now we can play here. Add some attributes to the video. You should have a video. You should have a video. The video you have given to you. You will have control. You can download it. You can mute it. You can picture it. This automatically presents browser. I will tell you about some attributes. You can see that I will add the video. You can see that this video is file name. This video is file from external URL. If I have downloaded the video of Amazon S3, I can add a URL here. You can also use your server on your computer. You can also come to the third party. What is the controls? Adds video controls like play, pause and volume. Because we have seen the video in the video. You are seeing the controls. Now what is the thing that is seen automatically? What will be the control led? What will not be seen in your video? You can play automatically like a pitch load. You can play auto play. What is the problem with the auto play? You can see that this is auto play. I will play auto play. The next attribute is loop. Once we have played the video, we will have loop. You can see that this is a pen. The next attribute is mutate. I will add videos here. I will demonstrate something. I will use mutate attribute. I will not record videos. I will show you the element. I will highlight this video. I will highlight this video. You can use mutate attribute in your websites. Postar is very important. I have a image of download.jpg. I will write postar. I will write download.jpg. You can see something. I will play postar. I will play postar. I will show you the video. Postar attribute. You can use this attribute. I have shown you the video dimension. I hope you have understood it. I want to tell you the video. I want to show you the video. I will show some<|es|> So this is audio, if I mute it, then I won't go. I can increase it. I can't see the audio. So this is such in.mp3. Now what we will do is, we will see some of these audio attributes. You know that the source video is filed. Then you will know that the play is a positive volume. Because we have seen it. What will we do with the auto play? We will play it automatically. I have... What is the auto play? I can't see the audio. So what is the auto play? This is the audio for the automatic play. Then the next attribute is, what will we do? We will repeat it. If I want to do it, then I will do the auto play. I will do the loop. What is the truth? In the truth? In the truth? In the truth? In the truth? In the truth? So you have repeated it. So once you have saved it, then you will get the answer. Because I have done the loop. So you have seen this. In the truth.mp3, I have looped it. Then you have saved it. Then you have saved it. The truth was repeated once. Because the amp3 will play once. So in many cases, when you want the amp3 to be repeated, If you want the amp3 to be repeated, then you can use it. And then what will we do with the muted audio? And definitely you don't want to do the by default audio mute in most of the cases. We will never want the audio mute. And we can say this to the user who listens to it and has a mute. What is it? We will do this now, which is multiple audio users. You want to show the audio of the 5-6, You can mute the user who can mute the play and play. So you can use this for control in your hands. Okay? So I hope you have come to this moment. You have enjoyed your videos. The most confusing attribute. That is why I explained this code with the .com. The preload attribute can be used for this value. The first value can be used for this. This is the default value. It indicates that the browser should not preload the audio at all. Preload means if you want to fetch the browser data, Then you will use the preload attribute. Or you will not use the preload attribute. Preload is equal to the default value. Preload is equal to the default value. The browser does not only mean that the default value is not only the default value. The information about the audio file will be reloaded. Because it will be reloaded from the beginning. And what will be done by auto-curing? The browser will be reloaded for the entire audio. Preload is equal to auto-curing. If I do this, it will be downloaded and will be loaded automatically. So that whenever the user plays this, Then the audio will be saved. So the attribute of the preload attribute is done. And the attribute that is asked in the interviews, So you should know what the attribute is. Before starting, I would like to share this playlist with your friends. I am seeing that the entire video is getting very detailed. We are going to start the videos. I hope you like this video. And with that, just like you are doing this repository, You are also going to start it. Your star will help you a lot. I will get the free courses. So this was about audio and video tags. I told you all the attributes. And you should definitely use all the images I will give you. So that you can try out these things. Many people asked me, Can we use the template? I have not used it in this course. But repli.com is an amazing website. If you want to use it in your phone, If you want to use HTML, If you want to use it in your phone, For iOS, Android, Now you can try it out. Many people asked me how to use it in my phone. But I am also trying to use the VS code. Most of the people who want to use it, prefer it. So I have made the VS code in videos. But personally, I use the template. And there are videos in the template. Next topic is SVG. What is SVG? SVG is a format. You can create an image. It is a very high graphics vector image. So you can make it in a circle. So SVG is used in the same way. It is used in the same way. If I add SVG, then SVG will come here. So this is the circular SVG. Video, audio, SVG are the online elements. So we are looking at the same line. Now what is here? You can save SVG file from different types. You can save SVG file from different types. So I will write here that I amg.svg and SVG content is saved. So if I write this in IMG, then you can see that I am not able to see this. If I write here, and my SVG image, then you can see that SVG is not able to see SVG. So why? It is because SVG is in the file in browser. And SVG file you can see in the browser. You can see a declaration. I will show you. I have written here that SVG file not showing. So this stack of people will tell you the answer. So you will have to write this. I will show you XML in some way. You will have to add this. Name space declaration. So SVG is something you have to add. And now you can see SVG. This is very important and many people will make websites in future. So I will make sure this problem is not possible. So I am telling you that the problem you faced in the first story. You have no problem. I have told you that it is going to be a solution. The next topic is iPhones. iPhones are very simple. You can embed an other website from iPhones. As I want to embed this website. I can use this website. I will copy this URL. And I will paste it here. And you can see that the entire website is embedded. You will definitely want to embed it in big iPhones. If you want to embed it in the same way, you can embed it. I will add it to the height of the site. So width is equal to width. I will add it to the height of 122. I will add it to the height of 122. So this is something like this. This is what I was able to do. I will add it to the height of 122. I will add it to the height of 122. So you can see that the entire site is embedded in the entire site. You can embed the site. You can use the same site for the same video. If you want to share the video of the site, click the embed and you can send the same site to the iPhone. And you can start it from any point. If you want to start a particular time, you can also do it here. You can share it at any point. You can also do it here. I will start it from here. I will start the video from here. I will click the embed and then embed it. I will start it from 1219. I will copy it or not. I will put it in my code. I will comment it in the iPhone. I will add it to the bottom of the iPhone. I will add it to the word wrap. Now I will paste it. I will show you the document. This video is embedded here. I hope you will come to know about it. And the media is only available in HTML. I am pretty much. I will meet you in every topic. But that's all about the media. I have audio, video, media. This is what you will use in 95% of the time. Now I will give you a quick quiz. And your quiz is that create a website which shows videos of different categories. And audio of different categories. You can use YouTube videos in an iFrame using YouTube's embedding feature. You have to make a website that will give you a lot of content. Now you will use video audio tags and use this share feature. I have made a video of this video. You can also embed it here. And you can make a big website and show it to me. You can give me a comment on the github. And you can explain me a code as well. But you can try to attempt this quiz. Write a signature badge in the comment section. Access the list. Like the video. Write a signature badge. I will meet you in this video. Thank you so much for watching this video. And I will see you next time. Bye."}
+{
+    "chunks": [
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 0.0,
+            "end": 5.58,
+            "text": " Today in this video we will go to audio, video and media elements in kestana system."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 5.58,
+            "end": 10.540000000000001,
+            "text": " We have seen in our very first video that we can embed videos in kestana."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 10.540000000000001,
+            "end": 13.38,
+            "text": " Today I will tell you how to auto play kestana."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 13.38,
+            "end": 19.88,
+            "text": " How to make muted video and how to enable and disable the control of video."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 19.88,
+            "end": 22.72,
+            "text": " Along with that we will also see about audio."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 22.72,
+            "end": 25.52,
+            "text": " How to show media in overall page."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 25.52,
+            "end": 28.52,
+            "text": " Like this video and subscribe to our channel."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 28.52,
+            "end": 32.72,
+            "text": " Because the examples I have used for video tags are very important."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 32.72,
+            "end": 35.22,
+            "text": " Let's go to video screen and let's roll the intro."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 44.22,
+            "end": 47.22,
+            "text": " Friends I have made a video called Folder."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 47.22,
+            "end": 51.519999999999996,
+            "text": " I will not waste time with the open with code of shift right click."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 51.519999999999996,
+            "end": 53.72,
+            "text": " I will make impact index on the stream."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 53.72,
+            "end": 56.72,
+            "text": " Today's video is video."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 56.72,
+            "end": 58.72,
+            "text": " How to play video."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 58.72,
+            "end": 62.72,
+            "text": " In a HTML file, how to put video."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 62.72,
+            "end": 63.72,
+            "text": " How to put audio."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 63.72,
+            "end": 65.72,
+            "text": " How to put media."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 65.72,
+            "end": 69.72,
+            "text": " So to add video, I will copy it."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 69.72,
+            "end": 73.72,
+            "text": " The video tag is called src attribute."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 73.72,
+            "end": 75.72,
+            "text": " And some other attributes like this."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 75.72,
+            "end": 77.72,
+            "text": " I will show you the slowest."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 77.72,
+            "end": 79.72,
+            "text": " But first I will tell you."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 79.72,
+            "end": 81.72,
+            "text": " You will see the video."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 81.72,
+            "end": 84.72,
+            "text": " If you have video.mp4, you will play with it."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 84.72,
+            "end": 85.72,
+            "text": " I have video.mp4."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 85.72,
+            "end": 86.72,
+            "text": " Let's see."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 86.72,
+            "end": 88.72,
+            "text": " I have put control here."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 88.72,
+            "end": 90.72,
+            "text": " I will preview it."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 90.72,
+            "end": 92.72,
+            "text": " You can see that this video is here."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 92.72,
+            "end": 95.72,
+            "text": " Now it is a very big video."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 95.72,
+            "end": 97.72,
+            "text": " So what can I do?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 97.72,
+            "end": 100.72,
+            "text": " I can say that I will do it here."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 100.72,
+            "end": 102.72,
+            "text": " I will do it here."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 102.72,
+            "end": 104.72,
+            "text": " I will do it here."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 104.72,
+            "end": 106.72,
+            "text": " I need to click px."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 106.72,
+            "end": 108.72,
+            "text": " I don't need to click px."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 109.72,
+            "end": 111.72,
+            "text": " Here we don't need to click px."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 111.72,
+            "end": 115.72,
+            "text": " When I press bit, I will do it in 5.5."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 115.72,
+            "end": 117.72,
+            "text": " I will do it in 5.5."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 117.72,
+            "end": 119.72,
+            "text": " So that it will be more small."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 119.72,
+            "end": 121.72,
+            "text": " I will do it in 2.5.5."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 121.72,
+            "end": 123.72,
+            "text": " And you can see that I am here."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 123.72,
+            "end": 125.72,
+            "text": " I will play here."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 125.72,
+            "end": 126.72,
+            "text": " I can play here."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 126.72,
+            "end": 128.72,
+            "text": " I have played it very well."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 128.72,
+            "end": 129.72,
+            "text": " What is my name?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 129.72,
+            "end": 130.72,
+            "text": " Who will play?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 130.72,
+            "end": 131.72,
+            "text": " Where did you go?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 131.72,
+            "end": 132.72,
+            "text": " I went to the U.S."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 132.72,
+            "end": 133.72,
+            "text": " I will play here."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 133.72,
+            "end": 135.72,
+            "text": " Who will play here?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 135.72,
+            "end": 137.72,
+            "text": " You can play here."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 137.72,
+            "end": 138.72,
+            "text": " Now we can play here."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 138.72,
+            "end": 140.72,
+            "text": " Add some attributes to the video."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 140.72,
+            "end": 142.72,
+            "text": " You should have a video."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 142.72,
+            "end": 143.72,
+            "text": " You should have a video."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 143.72,
+            "end": 145.72,
+            "text": " The video you have given to you."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 145.72,
+            "end": 147.72,
+            "text": " You will have control."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 147.72,
+            "end": 149.72,
+            "text": " You can download it."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 149.72,
+            "end": 151.72,
+            "text": " You can mute it."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 151.72,
+            "end": 153.72,
+            "text": " You can picture it."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 153.72,
+            "end": 155.72,
+            "text": " This automatically presents browser."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 155.72,
+            "end": 157.72,
+            "text": " I will tell you about some attributes."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 157.72,
+            "end": 159.72,
+            "text": " You can see that I will add the video."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 159.72,
+            "end": 161.72,
+            "text": " You can see that this video is file name."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 161.72,
+            "end": 164.72,
+            "text": " This video is file from external URL."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 164.72,
+            "end": 168.72,
+            "text": " If I have downloaded the video of Amazon S3,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 168.72,
+            "end": 170.72,
+            "text": " I can add a URL here."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 170.72,
+            "end": 173.72,
+            "text": " You can also use your server on your computer."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 173.72,
+            "end": 175.72,
+            "text": " You can also come to the third party."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 175.72,
+            "end": 176.72,
+            "text": " What is the controls?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 176.72,
+            "end": 179.72,
+            "text": " Adds video controls like play, pause and volume."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 179.72,
+            "end": 182.72,
+            "text": " Because we have seen the video in the video."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 182.72,
+            "end": 184.72,
+            "text": " You are seeing the controls."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 184.72,
+            "end": 188.72,
+            "text": " Now what is the thing that is seen automatically?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 188.72,
+            "end": 190.72,
+            "text": " What will be the control led?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 190.72,
+            "end": 192.72,
+            "text": " What will not be seen in your video?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 192.72,
+            "end": 195.72,
+            "text": " You can play automatically like a pitch load."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 195.72,
+            "end": 198.72,
+            "text": " You can play auto play."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 198.72,
+            "end": 201.72,
+            "text": " What is the problem with the auto play?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 201.72,
+            "end": 205.72,
+            "text": " You can see that this is auto play."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 205.72,
+            "end": 207.72,
+            "text": " I will play auto play."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 207.72,
+            "end": 210.72,
+            "text": " The next attribute is loop."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 210.72,
+            "end": 214.72,
+            "text": " Once we have played the video,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 214.72,
+            "end": 216.72,
+            "text": " we will have loop."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 216.72,
+            "end": 218.72,
+            "text": " You can see that this is a pen."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 219.72,
+            "end": 228.72,
+            "text": " The next attribute is mutate."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 228.72,
+            "end": 236.72,
+            "text": " I will add videos here."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 236.72,
+            "end": 239.72,
+            "text": " I will demonstrate something."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 239.72,
+            "end": 241.72,
+            "text": " I will use mutate attribute."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 241.72,
+            "end": 244.72,
+            "text": " I will not record videos."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 245.72,
+            "end": 247.72,
+            "text": " I will show you the element."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 247.72,
+            "end": 250.72,
+            "text": " I will highlight this video."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 250.72,
+            "end": 253.72,
+            "text": " I will highlight this video."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 253.72,
+            "end": 256.72,
+            "text": " You can use mutate attribute in your websites."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 256.72,
+            "end": 258.72,
+            "text": " Postar is very important."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 258.72,
+            "end": 262.72,
+            "text": " I have a image of download.jpg."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 262.72,
+            "end": 264.72,
+            "text": " I will write postar."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 264.72,
+            "end": 267.72,
+            "text": " I will write download.jpg."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 267.72,
+            "end": 269.72,
+            "text": " You can see something."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 269.72,
+            "end": 271.72,
+            "text": " I will play postar."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 271.72,
+            "end": 274.72,
+            "text": " I will play postar."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 274.72,
+            "end": 277.72,
+            "text": " I will show you the video."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 277.72,
+            "end": 280.72,
+            "text": " Postar attribute."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 280.72,
+            "end": 283.72,
+            "text": " You can use this attribute."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 283.72,
+            "end": 286.72,
+            "text": " I have shown you the video dimension."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 286.72,
+            "end": 289.72,
+            "text": " I hope you have understood it."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 289.72,
+            "end": 293.72,
+            "text": " I want to tell you the video."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 293.72,
+            "end": 298.72,
+            "text": " I want to show you the video."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 298.72,
+            "end": 313.48,
+            "text": " I will show some"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 343.48,
+            "end": 347.68,
+            "text": " So this is audio, if I mute it, then I won't go. I can increase it."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 347.68,
+            "end": 350.20000000000005,
+            "text": " I can't see the audio."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 350.20000000000005,
+            "end": 351.96000000000004,
+            "text": " So this is such in.mp3."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 351.96000000000004,
+            "end": 353.88,
+            "text": " Now what we will do is,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 353.88,
+            "end": 356.04,
+            "text": " we will see some of these audio attributes."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 356.04,
+            "end": 359.44,
+            "text": " You know that the source video is filed."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 359.44,
+            "end": 362.48,
+            "text": " Then you will know that the play is a positive volume."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 362.48,
+            "end": 363.64000000000004,
+            "text": " Because we have seen it."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 363.64000000000004,
+            "end": 364.68,
+            "text": " What will we do with the auto play?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 364.68,
+            "end": 366.32,
+            "text": " We will play it automatically."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 366.32,
+            "end": 367.64000000000004,
+            "text": " I have..."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 367.64000000000004,
+            "end": 369.48,
+            "text": " What is the auto play?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 369.48,
+            "end": 371.48,
+            "text": " I can't see the audio."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 372.04,
+            "end": 373.48,
+            "text": " So what is the auto play?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 373.48,
+            "end": 375.48,
+            "text": " This is the audio for the automatic play."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 375.48,
+            "end": 379.48,
+            "text": " Then the next attribute is, what will we do?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 379.48,
+            "end": 381.48,
+            "text": " We will repeat it."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 381.48,
+            "end": 383.48,
+            "text": " If I want to do it, then I will do the auto play."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 383.48,
+            "end": 384.48,
+            "text": " I will do the loop."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 384.48,
+            "end": 385.48,
+            "text": " What is the truth?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 385.48,
+            "end": 386.48,
+            "text": " In the truth?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 386.48,
+            "end": 387.48,
+            "text": " In the truth?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 387.48,
+            "end": 388.48,
+            "text": " In the truth?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 388.48,
+            "end": 389.48,
+            "text": " In the truth?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 389.48,
+            "end": 390.48,
+            "text": " In the truth?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 390.48,
+            "end": 391.48,
+            "text": " So you have repeated it."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 391.48,
+            "end": 394.48,
+            "text": " So once you have saved it, then you will get the answer."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 394.48,
+            "end": 396.48,
+            "text": " Because I have done the loop."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 396.48,
+            "end": 398.48,
+            "text": " So you have seen this."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 398.48,
+            "end": 400.48,
+            "text": " In the truth.mp3, I have looped it."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 400.48,
+            "end": 402.48,
+            "text": " Then you have saved it."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 402.48,
+            "end": 404.48,
+            "text": " Then you have saved it."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 404.48,
+            "end": 406.48,
+            "text": " The truth was repeated once."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 406.48,
+            "end": 408.48,
+            "text": " Because the amp3 will play once."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 408.48,
+            "end": 414.48,
+            "text": " So in many cases, when you want the amp3 to be repeated,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 414.48,
+            "end": 418.48,
+            "text": " If you want the amp3 to be repeated, then you can use it."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 418.48,
+            "end": 422.48,
+            "text": " And then what will we do with the muted audio?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 422.48,
+            "end": 426.48,
+            "text": " And definitely you don't want to do the by default audio mute in most of the cases."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 427.48,
+            "end": 431.48,
+            "text": " We will never want the audio mute."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 431.48,
+            "end": 434.48,
+            "text": " And we can say this to the user who listens to it and has a mute."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 434.48,
+            "end": 435.48,
+            "text": " What is it?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 435.48,
+            "end": 437.48,
+            "text": " We will do this now, which is multiple audio users."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 437.48,
+            "end": 439.48,
+            "text": " You want to show the audio of the 5-6,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 439.48,
+            "end": 443.48,
+            "text": " You can mute the user who can mute the play and play."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 443.48,
+            "end": 447.48,
+            "text": " So you can use this for control in your hands."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 447.48,
+            "end": 448.48,
+            "text": " Okay?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 448.48,
+            "end": 451.48,
+            "text": " So I hope you have come to this moment."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 451.48,
+            "end": 453.48,
+            "text": " You have enjoyed your videos."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 453.48,
+            "end": 455.48,
+            "text": " The most confusing attribute."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 455.48,
+            "end": 458.48,
+            "text": " That is why I explained this code with the .com."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 458.48,
+            "end": 461.48,
+            "text": " The preload attribute can be used for this value."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 461.48,
+            "end": 463.48,
+            "text": " The first value can be used for this."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 463.48,
+            "end": 464.48,
+            "text": " This is the default value."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 464.48,
+            "end": 467.48,
+            "text": " It indicates that the browser should not preload the audio at all."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 467.48,
+            "end": 471.48,
+            "text": " Preload means if you want to fetch the browser data,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 471.48,
+            "end": 474.48,
+            "text": " Then you will use the preload attribute."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 474.48,
+            "end": 476.48,
+            "text": " Or you will not use the preload attribute."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 476.48,
+            "end": 479.48,
+            "text": " Preload is equal to the default value."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 479.48,
+            "end": 481.48,
+            "text": " Preload is equal to the default value."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 481.48,
+            "end": 483.48,
+            "text": " The browser does not only mean that the default value is not only the default value."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 483.48,
+            "end": 485.48,
+            "text": " The information about the audio file will be reloaded."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 485.48,
+            "end": 487.48,
+            "text": " Because it will be reloaded from the beginning."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 487.48,
+            "end": 489.48,
+            "text": " And what will be done by auto-curing?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 489.48,
+            "end": 491.48,
+            "text": " The browser will be reloaded for the entire audio."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 491.48,
+            "end": 493.48,
+            "text": " Preload is equal to auto-curing."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 493.48,
+            "end": 496.48,
+            "text": " If I do this, it will be downloaded and will be loaded automatically."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 496.48,
+            "end": 498.48,
+            "text": " So that whenever the user plays this,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 498.48,
+            "end": 500.48,
+            "text": " Then the audio will be saved."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 500.48,
+            "end": 502.48,
+            "text": " So the attribute of the preload attribute is done."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 502.48,
+            "end": 504.48,
+            "text": " And the attribute that is asked in the interviews,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 504.48,
+            "end": 507.48,
+            "text": " So you should know what the attribute is."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 507.48,
+            "end": 510.48,
+            "text": " Before starting, I would like to share this playlist with your friends."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 510.48,
+            "end": 513.48,
+            "text": " I am seeing that the entire video is getting very detailed."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 513.48,
+            "end": 515.48,
+            "text": " We are going to start the videos."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 515.48,
+            "end": 517.48,
+            "text": " I hope you like this video."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 517.48,
+            "end": 521.48,
+            "text": " And with that, just like you are doing this repository,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 521.48,
+            "end": 523.48,
+            "text": " You are also going to start it."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 523.48,
+            "end": 526.48,
+            "text": " Your star will help you a lot."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 526.48,
+            "end": 528.48,
+            "text": " I will get the free courses."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 528.48,
+            "end": 530.48,
+            "text": " So this was about audio and video tags."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 530.48,
+            "end": 532.48,
+            "text": " I told you all the attributes."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 532.48,
+            "end": 536.48,
+            "text": " And you should definitely use all the images I will give you."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 536.48,
+            "end": 538.48,
+            "text": " So that you can try out these things."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 538.48,
+            "end": 540.48,
+            "text": " Many people asked me,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 540.48,
+            "end": 542.48,
+            "text": " Can we use the template?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 542.48,
+            "end": 545.48,
+            "text": " I have not used it in this course."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 545.48,
+            "end": 547.48,
+            "text": " But repli.com is an amazing website."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 547.48,
+            "end": 549.48,
+            "text": " If you want to use it in your phone,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 549.48,
+            "end": 551.48,
+            "text": " If you want to use HTML,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 551.48,
+            "end": 553.48,
+            "text": " If you want to use it in your phone,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 553.48,
+            "end": 554.48,
+            "text": " For iOS, Android,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 554.48,
+            "end": 555.48,
+            "text": " Now you can try it out."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 555.48,
+            "end": 558.48,
+            "text": " Many people asked me how to use it in my phone."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 558.48,
+            "end": 561.48,
+            "text": " But I am also trying to use the VS code."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 561.48,
+            "end": 564.48,
+            "text": " Most of the people who want to use it, prefer it."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 564.48,
+            "end": 567.48,
+            "text": " So I have made the VS code in videos."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 567.48,
+            "end": 570.48,
+            "text": " But personally, I use the template."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 570.48,
+            "end": 572.48,
+            "text": " And there are videos in the template."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 572.48,
+            "end": 574.48,
+            "text": " Next topic is SVG."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 574.48,
+            "end": 576.48,
+            "text": " What is SVG?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 576.48,
+            "end": 578.48,
+            "text": " SVG is a format."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 578.48,
+            "end": 580.48,
+            "text": " You can create an image."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 580.48,
+            "end": 583.48,
+            "text": " It is a very high graphics vector image."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 583.48,
+            "end": 586.48,
+            "text": " So you can make it in a circle."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 586.48,
+            "end": 589.48,
+            "text": " So SVG is used in the same way."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 589.48,
+            "end": 591.48,
+            "text": " It is used in the same way."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 591.48,
+            "end": 595.48,
+            "text": " If I add SVG, then SVG will come here."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 595.48,
+            "end": 597.48,
+            "text": " So this is the circular SVG."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 597.48,
+            "end": 601.48,
+            "text": " Video, audio, SVG are the online elements."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 601.48,
+            "end": 603.48,
+            "text": " So we are looking at the same line."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 603.48,
+            "end": 606.48,
+            "text": " Now what is here?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 606.48,
+            "end": 609.48,
+            "text": " You can save SVG file from different types."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 609.48,
+            "end": 611.48,
+            "text": " You can save SVG file from different types."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 611.48,
+            "end": 616.48,
+            "text": " So I will write here that I amg.svg and SVG content is saved."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 616.48,
+            "end": 619.48,
+            "text": " So if I write this in IMG,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 619.48,
+            "end": 624.48,
+            "text": " then you can see that I am not able to see this."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 624.48,
+            "end": 628.48,
+            "text": " If I write here, and my SVG image,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 628.48,
+            "end": 632.48,
+            "text": " then you can see that SVG is not able to see SVG."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 632.48,
+            "end": 635.48,
+            "text": " So why?"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 635.48,
+            "end": 640.48,
+            "text": " It is because SVG is in the file in browser."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 640.48,
+            "end": 644.48,
+            "text": " And SVG file you can see in the browser."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 644.48,
+            "end": 647.48,
+            "text": " You can see a declaration."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 647.48,
+            "end": 649.48,
+            "text": " I will show you."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 649.48,
+            "end": 652.48,
+            "text": " I have written here that SVG file not showing."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 652.48,
+            "end": 655.48,
+            "text": " So this stack of people will tell you the answer."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 655.48,
+            "end": 657.48,
+            "text": " So you will have to write this."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 657.48,
+            "end": 660.48,
+            "text": " I will show you XML in some way."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 660.48,
+            "end": 662.48,
+            "text": " You will have to add this."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 662.48,
+            "end": 664.48,
+            "text": " Name space declaration."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 664.48,
+            "end": 667.48,
+            "text": " So SVG is something you have to add."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 667.48,
+            "end": 669.48,
+            "text": " And now you can see SVG."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 669.48,
+            "end": 674.48,
+            "text": " This is very important and many people will make websites in future."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 674.48,
+            "end": 676.48,
+            "text": " So I will make sure this problem is not possible."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 676.48,
+            "end": 680.48,
+            "text": " So I am telling you that the problem you faced in the first story."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 680.48,
+            "end": 682.48,
+            "text": " You have no problem."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 682.48,
+            "end": 684.48,
+            "text": " I have told you that it is going to be a solution."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 684.48,
+            "end": 685.48,
+            "text": " The next topic is iPhones."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 685.48,
+            "end": 687.48,
+            "text": " iPhones are very simple."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 687.48,
+            "end": 691.48,
+            "text": " You can embed an other website from iPhones."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 691.48,
+            "end": 694.48,
+            "text": " As I want to embed this website."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 694.48,
+            "end": 697.48,
+            "text": " I can use this website."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 697.48,
+            "end": 701.48,
+            "text": " I will copy this URL."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 701.48,
+            "end": 703.48,
+            "text": " And I will paste it here."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 703.48,
+            "end": 707.48,
+            "text": " And you can see that the entire website is embedded."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 707.48,
+            "end": 711.48,
+            "text": " You will definitely want to embed it in big iPhones."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 711.48,
+            "end": 714.48,
+            "text": " If you want to embed it in the same way, you can embed it."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 714.48,
+            "end": 717.48,
+            "text": " I will add it to the height of the site."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 717.48,
+            "end": 719.48,
+            "text": " So width is equal to width."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 719.48,
+            "end": 722.48,
+            "text": " I will add it to the height of 122."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 722.48,
+            "end": 724.48,
+            "text": " I will add it to the height of 122."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 724.48,
+            "end": 727.48,
+            "text": " So this is something like this."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 727.48,
+            "end": 729.48,
+            "text": " This is what I was able to do."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 729.48,
+            "end": 732.48,
+            "text": " I will add it to the height of 122."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 732.48,
+            "end": 735.48,
+            "text": " I will add it to the height of 122."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 735.48,
+            "end": 738.48,
+            "text": " So you can see that the entire site is embedded in the entire site."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 738.48,
+            "end": 741.48,
+            "text": " You can embed the site."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 741.48,
+            "end": 743.48,
+            "text": " You can use the same site for the same video."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 743.48,
+            "end": 746.48,
+            "text": " If you want to share the video of the site,"
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 746.48,
+            "end": 749.48,
+            "text": " click the embed and you can send the same site to the iPhone."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 749.48,
+            "end": 752.48,
+            "text": " And you can start it from any point."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 752.48,
+            "end": 755.48,
+            "text": " If you want to start a particular time, you can also do it here."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 755.48,
+            "end": 758.48,
+            "text": " You can share it at any point."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 758.48,
+            "end": 760.48,
+            "text": " You can also do it here."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 760.48,
+            "end": 763.48,
+            "text": " I will start it from here."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 763.48,
+            "end": 765.48,
+            "text": " I will start the video from here."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 765.48,
+            "end": 768.48,
+            "text": " I will click the embed and then embed it."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 768.48,
+            "end": 770.48,
+            "text": " I will start it from 1219."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 770.48,
+            "end": 773.48,
+            "text": " I will copy it or not."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 773.48,
+            "end": 775.48,
+            "text": " I will put it in my code."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 775.48,
+            "end": 777.48,
+            "text": " I will comment it in the iPhone."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 777.48,
+            "end": 779.48,
+            "text": " I will add it to the bottom of the iPhone."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 779.48,
+            "end": 782.48,
+            "text": " I will add it to the word wrap."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 783.48,
+            "end": 785.48,
+            "text": " Now I will paste it."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 785.48,
+            "end": 788.48,
+            "text": " I will show you the document."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 788.48,
+            "end": 790.48,
+            "text": " This video is embedded here."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 790.48,
+            "end": 793.48,
+            "text": " I hope you will come to know about it."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 793.48,
+            "end": 796.48,
+            "text": " And the media is only available in HTML."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 796.48,
+            "end": 797.48,
+            "text": " I am pretty much."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 797.48,
+            "end": 800.48,
+            "text": " I will meet you in every topic."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 800.48,
+            "end": 802.48,
+            "text": " But that's all about the media."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 802.48,
+            "end": 804.48,
+            "text": " I have audio, video, media."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 804.48,
+            "end": 808.48,
+            "text": " This is what you will use in 95% of the time."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 808.48,
+            "end": 810.48,
+            "text": " Now I will give you a quick quiz."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 810.48,
+            "end": 817.48,
+            "text": " And your quiz is that create a website which shows videos of different categories."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 817.48,
+            "end": 820.48,
+            "text": " And audio of different categories."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 820.48,
+            "end": 826.48,
+            "text": " You can use YouTube videos in an iFrame using YouTube's embedding feature."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 826.48,
+            "end": 832.48,
+            "text": " You have to make a website that will give you a lot of content."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 832.48,
+            "end": 837.48,
+            "text": " Now you will use video audio tags and use this share feature."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 837.48,
+            "end": 839.48,
+            "text": " I have made a video of this video."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 839.48,
+            "end": 841.48,
+            "text": " You can also embed it here."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 841.48,
+            "end": 844.48,
+            "text": " And you can make a big website and show it to me."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 844.48,
+            "end": 846.48,
+            "text": " You can give me a comment on the github."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 846.48,
+            "end": 850.48,
+            "text": " And you can explain me a code as well."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 850.48,
+            "end": 852.48,
+            "text": " But you can try to attempt this quiz."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 852.48,
+            "end": 854.48,
+            "text": " Write a signature badge in the comment section."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 854.48,
+            "end": 856.48,
+            "text": " Access the list."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 856.48,
+            "end": 857.48,
+            "text": " Like the video."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 857.48,
+            "end": 859.48,
+            "text": " Write a signature badge."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 859.48,
+            "end": 860.48,
+            "text": " I will meet you in this video."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 860.48,
+            "end": 862.48,
+            "text": " Thank you so much for watching this video."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 862.48,
+            "end": 865.48,
+            "text": " And I will see you next time."
+        },
+        {
+            "number": "10",
+            "title": "Video, Audio & Media in HTML \uff5c Sigma Web Development Course - Tutorial #10 [XZwBNDGuWGU].webm",
+            "start": 867.48,
+            "end": 869.48,
+            "text": " Bye."
+        }
+    ],
+    "text": " Today in this video we will go to audio, video and media elements in kestana system. We have seen in our very first video that we can embed videos in kestana. Today I will tell you how to auto play kestana. How to make muted video and how to enable and disable the control of video. Along with that we will also see about audio. How to show media in overall page. Like this video and subscribe to our channel. Because the examples I have used for video tags are very important. Let's go to video screen and let's roll the intro. Friends I have made a video called Folder. I will not waste time with the open with code of shift right click. I will make impact index on the stream. Today's video is video. How to play video. In a HTML file, how to put video. How to put audio. How to put media. So to add video, I will copy it. The video tag is called src attribute. And some other attributes like this. I will show you the slowest. But first I will tell you. You will see the video. If you have video.mp4, you will play with it. I have video.mp4. Let's see. I have put control here. I will preview it. You can see that this video is here. Now it is a very big video. So what can I do? I can say that I will do it here. I will do it here. I will do it here. I need to click px. I don't need to click px. Here we don't need to click px. When I press bit, I will do it in 5.5. I will do it in 5.5. So that it will be more small. I will do it in 2.5.5. And you can see that I am here. I will play here. I can play here. I have played it very well. What is my name? Who will play? Where did you go? I went to the U.S. I will play here. Who will play here? You can play here. Now we can play here. Add some attributes to the video. You should have a video. You should have a video. The video you have given to you. You will have control. You can download it. You can mute it. You can picture it. This automatically presents browser. I will tell you about some attributes. You can see that I will add the video. You can see that this video is file name. This video is file from external URL. If I have downloaded the video of Amazon S3, I can add a URL here. You can also use your server on your computer. You can also come to the third party. What is the controls? Adds video controls like play, pause and volume. Because we have seen the video in the video. You are seeing the controls. Now what is the thing that is seen automatically? What will be the control led? What will not be seen in your video? You can play automatically like a pitch load. You can play auto play. What is the problem with the auto play? You can see that this is auto play. I will play auto play. The next attribute is loop. Once we have played the video, we will have loop. You can see that this is a pen. The next attribute is mutate. I will add videos here. I will demonstrate something. I will use mutate attribute. I will not record videos. I will show you the element. I will highlight this video. I will highlight this video. You can use mutate attribute in your websites. Postar is very important. I have a image of download.jpg. I will write postar. I will write download.jpg. You can see something. I will play postar. I will play postar. I will show you the video. Postar attribute. You can use this attribute. I have shown you the video dimension. I hope you have understood it. I want to tell you the video. I want to show you the video. I will show some<|es|> So this is audio, if I mute it, then I won't go. I can increase it. I can't see the audio. So this is such in.mp3. Now what we will do is, we will see some of these audio attributes. You know that the source video is filed. Then you will know that the play is a positive volume. Because we have seen it. What will we do with the auto play? We will play it automatically. I have... What is the auto play? I can't see the audio. So what is the auto play? This is the audio for the automatic play. Then the next attribute is, what will we do? We will repeat it. If I want to do it, then I will do the auto play. I will do the loop. What is the truth? In the truth? In the truth? In the truth? In the truth? In the truth? So you have repeated it. So once you have saved it, then you will get the answer. Because I have done the loop. So you have seen this. In the truth.mp3, I have looped it. Then you have saved it. Then you have saved it. The truth was repeated once. Because the amp3 will play once. So in many cases, when you want the amp3 to be repeated, If you want the amp3 to be repeated, then you can use it. And then what will we do with the muted audio? And definitely you don't want to do the by default audio mute in most of the cases. We will never want the audio mute. And we can say this to the user who listens to it and has a mute. What is it? We will do this now, which is multiple audio users. You want to show the audio of the 5-6, You can mute the user who can mute the play and play. So you can use this for control in your hands. Okay? So I hope you have come to this moment. You have enjoyed your videos. The most confusing attribute. That is why I explained this code with the .com. The preload attribute can be used for this value. The first value can be used for this. This is the default value. It indicates that the browser should not preload the audio at all. Preload means if you want to fetch the browser data, Then you will use the preload attribute. Or you will not use the preload attribute. Preload is equal to the default value. Preload is equal to the default value. The browser does not only mean that the default value is not only the default value. The information about the audio file will be reloaded. Because it will be reloaded from the beginning. And what will be done by auto-curing? The browser will be reloaded for the entire audio. Preload is equal to auto-curing. If I do this, it will be downloaded and will be loaded automatically. So that whenever the user plays this, Then the audio will be saved. So the attribute of the preload attribute is done. And the attribute that is asked in the interviews, So you should know what the attribute is. Before starting, I would like to share this playlist with your friends. I am seeing that the entire video is getting very detailed. We are going to start the videos. I hope you like this video. And with that, just like you are doing this repository, You are also going to start it. Your star will help you a lot. I will get the free courses. So this was about audio and video tags. I told you all the attributes. And you should definitely use all the images I will give you. So that you can try out these things. Many people asked me, Can we use the template? I have not used it in this course. But repli.com is an amazing website. If you want to use it in your phone, If you want to use HTML, If you want to use it in your phone, For iOS, Android, Now you can try it out. Many people asked me how to use it in my phone. But I am also trying to use the VS code. Most of the people who want to use it, prefer it. So I have made the VS code in videos. But personally, I use the template. And there are videos in the template. Next topic is SVG. What is SVG? SVG is a format. You can create an image. It is a very high graphics vector image. So you can make it in a circle. So SVG is used in the same way. It is used in the same way. If I add SVG, then SVG will come here. So this is the circular SVG. Video, audio, SVG are the online elements. So we are looking at the same line. Now what is here? You can save SVG file from different types. You can save SVG file from different types. So I will write here that I amg.svg and SVG content is saved. So if I write this in IMG, then you can see that I am not able to see this. If I write here, and my SVG image, then you can see that SVG is not able to see SVG. So why? It is because SVG is in the file in browser. And SVG file you can see in the browser. You can see a declaration. I will show you. I have written here that SVG file not showing. So this stack of people will tell you the answer. So you will have to write this. I will show you XML in some way. You will have to add this. Name space declaration. So SVG is something you have to add. And now you can see SVG. This is very important and many people will make websites in future. So I will make sure this problem is not possible. So I am telling you that the problem you faced in the first story. You have no problem. I have told you that it is going to be a solution. The next topic is iPhones. iPhones are very simple. You can embed an other website from iPhones. As I want to embed this website. I can use this website. I will copy this URL. And I will paste it here. And you can see that the entire website is embedded. You will definitely want to embed it in big iPhones. If you want to embed it in the same way, you can embed it. I will add it to the height of the site. So width is equal to width. I will add it to the height of 122. I will add it to the height of 122. So this is something like this. This is what I was able to do. I will add it to the height of 122. I will add it to the height of 122. So you can see that the entire site is embedded in the entire site. You can embed the site. You can use the same site for the same video. If you want to share the video of the site, click the embed and you can send the same site to the iPhone. And you can start it from any point. If you want to start a particular time, you can also do it here. You can share it at any point. You can also do it here. I will start it from here. I will start the video from here. I will click the embed and then embed it. I will start it from 1219. I will copy it or not. I will put it in my code. I will comment it in the iPhone. I will add it to the bottom of the iPhone. I will add it to the word wrap. Now I will paste it. I will show you the document. This video is embedded here. I hope you will come to know about it. And the media is only available in HTML. I am pretty much. I will meet you in every topic. But that's all about the media. I have audio, video, media. This is what you will use in 95% of the time. Now I will give you a quick quiz. And your quiz is that create a website which shows videos of different categories. And audio of different categories. You can use YouTube videos in an iFrame using YouTube's embedding feature. You have to make a website that will give you a lot of content. Now you will use video audio tags and use this share feature. I have made a video of this video. You can also embed it here. And you can make a big website and show it to me. You can give me a comment on the github. And you can explain me a code as well. But you can try to attempt this quiz. Write a signature badge in the comment section. Access the list. Like the video. Write a signature badge. I will meet you in this video. Thank you so much for watching this video. And I will see you next time. Bye."
+}
