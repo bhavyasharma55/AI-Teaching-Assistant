@@ -4,16 +4,29 @@ import json
 import numpy as np
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
+import joblib
 
 def create_embedding(text_list):
     # https://github.com/ollama/ollama/blob/main/docs/api.md#generate-embeddings
-    r = requests.post("http://localhost:11434/api/embed", json={
-        "model": "bge-m3",
-        "input": text_list
-    })
+    embeddings = []
+    batch_size = 100
+    for start in range(0, len(text_list), batch_size):
+        batch = text_list[start:start + batch_size]
+        r = requests.post("http://localhost:11434/api/embed", json={
+            "model": "bge-m3",
+            "input": batch
+        }, timeout=120)
+        try:
+            r.raise_for_status()
+        except requests.HTTPError as error:
+            raise RuntimeError(f"Ollama embedding request failed: {r.text}") from error
 
-    embedding = r.json()["embeddings"] 
-    return embedding
+        response = r.json()
+        if "embeddings" not in response:
+            raise RuntimeError(f"Ollama response did not contain embeddings: {response}")
+        embeddings.extend(response["embeddings"])
+
+    return embeddings
 
 
 jsons = os.listdir("jsons")  # List all the jsons 
@@ -31,20 +44,10 @@ for json_file in jsons:
         chunk['embedding'] = embeddings[i]
         chunk_id += 1
         my_dicts.append(chunk) 
-    break
 # print(my_dicts)
 
-df = pd.DataFrame.from_records(my_dicts) 
-incoming_query = input("Ask a Question: ")
-question_embedding = create_embedding([incoming_query])[0] 
+df = pd.DataFrame.from_records(my_dicts)
+# Save this dataframe
+joblib.dump(df, 'embeddings.joblib')
 
-# Find similarities of question_embedding with other embeddings
-# print(np.vstack(df['embedding'].values))
-# print(np.vstack(df['embedding']).shape)
-similarities = cosine_similarity(np.vstack(df['embedding']), [question_embedding]).flatten()
-print(similarities)
-top_results = 3
-max_indx = similarities.argsort()[::-1][0:top_results]
-print(max_indx)
-new_df = df.loc[max_indx] 
-print(new_df[["title", "number", "text"]])
+
